@@ -5,5 +5,6 @@ public class gittest {
         System.out.println("AVaVaAVa");
         System.out.println("hello git");
         System.out.println("push test!");
+          System.out.println("pull test");
     }
 }
